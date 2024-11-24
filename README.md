@@ -1,7 +1,7 @@
 # CSC-340-Database-Design-Project
 Designed a database for a client in real-life. Specifically, it was for a food distributor company, Champion Food Services 2 in San Antonio, Texas.
 
-[ER diagram]([https://github.com/luodiw/CSC-340-Database-Design-Project/blob/main/Entity%20Relationship%20Diagram.pdf](https://github.com/luodiw/CSC-340-Database-Design-Project/blob/main/Entity%20Relationship%20Diagram.jpg)
+![ER diagram](https://github.com/luodiw/CSC-340-Database-Design-Project/blob/main/Entity%20Relationship%20Diagram.jpg?raw=true)
 
 ### How this project was designed
 I first wrote a report to clarify what the client wanted us to input into their database. The design report serves as a reference to understand the functions and assets of their business. I then created an ER (Entity Relationship) diagram to create a visual representation of the database we were making. And to turn this into schemas, algorithms including the 8-step algorithm, normalization, and canonical cover were used. 
